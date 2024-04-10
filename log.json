@@ -1,0 +1,1 @@
+[{"name": "Rename files", "time": "2024-04-09T21:41:51.607353", "directory": "test", "rule": {".txt": "newname"}}, {"name": "Rename files", "time": "2024-04-09T21:43:57.412581", "directory": "test", "rule": {".pdf": "cat"}}]
