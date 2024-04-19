@@ -4,9 +4,9 @@ setup(
     name='file-renaming-tool',
     version='0.1.0',
     url='https://github.com/yourusername/file-renaming-tool',
-    author='Author Name',
-    author_email='author@gmail.com',
-    description='Description of my package',
+    author='Songbo gao',
+    author_email='songbog327@gmail.com',
+    description='File rename',
     packages=find_packages(),    
     install_requires=[],
 )
